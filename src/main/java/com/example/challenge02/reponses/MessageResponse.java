@@ -1,9 +1,11 @@
 package com.example.challenge02.reponses;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
-public class MessageReponse {
+
+public class MessageResponse {
 
     private String message;
 
